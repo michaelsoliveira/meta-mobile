@@ -1,4 +1,4 @@
-import { Driver, MarkerData } from "../../types/type";
+import { Driver, MarkerData } from "../types/type";
 
 const directionsAPI = process.env.EXPO_PUBLIC_DIRECTIONS_API_KEY;
 
